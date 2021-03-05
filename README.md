@@ -1,5 +1,5 @@
-# Nic-Code-Examples
-A place to put some code examples.
+# Nic Code Examples
+*some code examples*
 
 
 - **LiveMache_Session.js** - the main client-side singleton for the real-time, collaborative web app, [LiveMache](https://livemache.ecologylab.net/)
